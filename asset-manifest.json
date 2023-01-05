@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/headwind/static/css/main.2b09c80e.css",
+    "main.js": "/headwind/static/js/main.ffbdfc32.js",
+    "index.html": "/headwind/index.html",
+    "main.2b09c80e.css.map": "/headwind/static/css/main.2b09c80e.css.map",
+    "main.ffbdfc32.js.map": "/headwind/static/js/main.ffbdfc32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b09c80e.css",
+    "static/js/main.ffbdfc32.js"
+  ]
+}
